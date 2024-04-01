@@ -1,0 +1,9 @@
+feeling = "How do you feel today? "
+
+
+if feeling == "happy":
+    print("That's great to hear!")
+if feeling == "sad":
+    print("I hope your day gets better!")
+else:
+    print("I see. Take care!")
