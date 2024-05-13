@@ -1,0 +1,7 @@
+bread_price = 80.99
+peanut_butter_price = 76.89
+jelly_price = 18.65
+
+total_cost = bread_price + peanut_butter_price + jelly_price
+
+print("Total cost of bread, peanut butter, and jelly:", total_cost)
